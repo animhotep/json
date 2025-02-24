@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "inline_element_title": "IPhone",
+        "inline_element_description": "apple",
+        "inline_element_image": "http://url.mi.png"
+      },
+      {
+        "inline_element_title": "Galaxy",
+        "inline_element_description": "Samsung",
+        "inline_element_image": "https://getlogovector.com/wp-content/uploads/2019/05/gala-magazine-logo-vector.png"
+      },
+      {
+        "inline_element_title": "M43",
+        "inline_element_description": "Fly",
+        "inline_element_image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gala_logo.png"
+      },
+      {
+        "inline_element_title": "I10",
+        "inline_element_description": "Xiaomi",
+        "inline_element_image": "http://url.sd.png"
+      }
+    ]
+  }
